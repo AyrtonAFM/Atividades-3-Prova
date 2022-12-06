@@ -1,3 +1,4 @@
+programa
 {
 	funcao mudaOvalorDeUmBitQualquer(inteiro numero, inteiro posicaoDoBit, inteiro valorDoBit,inteiro resultado )
 	{
